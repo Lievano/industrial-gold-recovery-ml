@@ -1,0 +1,16 @@
+Gold Recovery Prediction — GitHub Ready Package
+
+Included:
+- Final executed notebooks in English and Spanish
+- Raw CSV datasets
+- Metric utility module
+- Professional README files in English and Spanish
+- Interview explanation files in English and Spanish
+- Portfolio reports in English and Spanish
+- requirements.txt
+- .gitignore
+- results folder
+
+Notes:
+- The English and Spanish notebooks should remain methodologically identical.
+- If uploading to a public GitHub repository, verify whether dataset redistribution is allowed by your course/platform policy.
