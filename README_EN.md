@@ -223,7 +223,6 @@ Temporal validation better reflects the structure of the industrial process.
 ├── INTERVIEW_EXPLANATION_ES.md
 ├── README_EN.md
 ├── README_ES.md
-├── MANIFEST.txt
 ├── requirements.txt
 └── .gitignore
 ```
